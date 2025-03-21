@@ -2,4 +2,4 @@ I contributed to 5G network automation on the ONAP platform, developing scalable
 
 
 
-Click here to view my Open source contributions - https://gerrit.onap.org/r/q/owner:malarvizhi.44%2540wipro.com,50
+Click here to view my Open source contributions - https://gerrit.onap.org/r/q/owner:malarvizhi.44%2540wipro.com,25
